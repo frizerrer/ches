@@ -128,7 +128,7 @@ span {
 
   
 body{
-    background-color: blue;
+    background-image: url("phoneimigine.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     pointer-events:fill;
